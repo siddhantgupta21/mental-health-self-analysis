@@ -40,9 +40,10 @@ python main.py --gad 10 --phq 12 --epworth 8
 
 ### To run the streamlit ui
 ```
-streamlit run app.py
+streamlit run mental_health_ui.py
 
 ```
+Add you gemma access token
 
 
 
